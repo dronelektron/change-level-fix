@@ -1,9 +1,6 @@
 # ChangeLevel fix
 
-Fixes the `ChangeLevel` behavior:
-
-* Removes the double map change
-* Changes to a map from `SourceMod` rather than `mapcycle.txt`
+Blocks the second level change
 
 ### Supported Games
 
