@@ -11,7 +11,7 @@ public Plugin myinfo = {
     name = "ChangeLevel fix",
     author = "Dron-elektron",
     description = "Blocks the second call to the 'ChangeLevel' function",
-    version = "0.1.0",
+    version = "1.0.0",
     url = "https://github.com/dronelektron/change-level-fix"
 };
 
