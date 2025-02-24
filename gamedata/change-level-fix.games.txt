@@ -1,15 +1,15 @@
 "Games"
 {
-	"dod"
-	{
-		"Signatures"
-		{
-			"CMultiplayRules::ChangeLevel"
-			{
-				"library"	"server"
-				"windows"	"\x55\x8B\xEC\x83\xEC\x60\xF7"
-				"linux"		"@_ZN15CMultiplayRules11ChangeLevelEv"
-			}
-		}
-	}
+    "dod"
+    {
+        "Signatures"
+        {
+            "CMultiplayRules::ChangeLevel"
+            {
+                "library"   "server"
+                "windows"   "\x55\x8B\xEC\x83\xEC\x60\xF7"
+                "linux"     "@_ZN15CMultiplayRules11ChangeLevelEv"
+            }
+        }
+    }
 }
